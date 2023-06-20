@@ -2,7 +2,9 @@
 
 ## Board
 
-![board](./images/board.png)
+![board](./images/board-1.png)
+
+![board](./images/board-2.png)
 
 ## Schematic
 
